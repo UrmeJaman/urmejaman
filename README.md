@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urmejaman&label=Profile%20views&color=0e75b6&style=flat" alt="urmejaman" /> </p>
 
-- 🔭 I’m currently working on **Thikadar**
+- 🔭 I’m currently working on **Laravel and Vue js **
 
-- 🌱 I’m currently learning **Laravel, VueJS**
+- 🌱 I’m currently learning **Restfull Api *
 
-- 👯 I’m looking to collaborate on **Laravel and VueJS Projec**
+- 👯 I’m looking to collaborate on **Laravel and VueJS Project and restfull Api**
 
 
 <h3 align="left">Languages and Tools:</h3>
